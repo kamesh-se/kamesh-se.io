@@ -1,13 +1,13 @@
 # Site
-repository: kameshchandran/kameshchandran.github.io
+repository: kamesh-se/kamesh-se.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Kamesh Chandran
-title: Senior Data Engineer/Lead engineer
+name: Kamesh
+title: Lead engineer
 email: kamesh.chandran@gmail.com
 website: kamesh-se.github.io
 
@@ -55,33 +55,28 @@ about_content: | # this will include new lines to allow paragraphs
 #I am most skilled in: <mark>Data</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Equinix Customer Portal
+        link: customerportal.equinix.com
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        caption: December 2016 - Present
+        #additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+            Equinix Customer portal provides interconnections between or same customers and data center facilty services. Equinix data centers presence is all the metros close to business centers this enables the customer to interconnect seemlessly with less latency and secured.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+         Modules:
+         - Predicting the users actions based on attachement. Mdles like 
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: FIS (Fidility Informations Solution)
+        link: fis.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Technial Lead Engineer
         caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -92,27 +87,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: Teh University of Texas, Exections Educations
+        caption: 2019 - 2020
+        sub_title: PGP (Artifical intelligence and Machine learning)
+        quote: >
+          The University of Texas at Austin, shortened to UT Austin, UT, or Texas, is a public research university in Austin, Texas and the flagship institution of the University of Texas System. 
+        description: | # this will include new lines to allow paragraphs
+          I learn to create and manage machine learning models during the modern way of online education—the basics skill like cleansing the data for model prediction, PCA, and Feature engineering. I learned to organize the data and understand the business use case to predict the models.  
+
+          
+      - layout: left
+        title: JJ College of engineering (Affiliated to Anna University)
+        caption: 2003 - 2006
         sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+           	J.J. Educational, Health & Charitable Trust has been established in the year 1994 with a vision to create, educational facilities in general and technical institutions in particular, to the socially educationally and economically under privileged youth from rural areas in and around Tiruchirappalli.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at College I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a committee member of the *College Developer Community* taking on roles such as arranging hacking sessions for joniors *Hackathon Organizer* and *Caltural Event Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
+      - Running
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    #  Look at this cool image  
+    #  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
