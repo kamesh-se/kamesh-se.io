@@ -132,19 +132,22 @@ content:
       - layout: left
         title: JJ College of engineering (Affiliated to Anna University)
         caption: 2003 - 2006
-        sub_title: BSc Computer Science
+        sub_title: BE Computer Science
         quote: JJ Colleger of Engineering affiliated to Anna University
         description: | # this will include new lines to allow paragraphs
           During my time at College I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *College Developer Community* taking on roles such as arranging hacking sessions for juniors *Hackathon Organizer* and *Cultural Event Vice-President*.
-
+      - layout: left
+        title: Department of Technical Educations
+        caption: 2000 - 2003
+        sub_title: Diploma in Computer Technology 
+        quote: KAR Polytechnic college, Ambur, Tamilnadu, India
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
+      Alongside my interests in AI, ML and software engineering some of my other interests and hobbies are:
       - Running
-      - Cooking
       - Writing blogs [link](https://kamesh-c.medium.com/) 
 
 # Footer
