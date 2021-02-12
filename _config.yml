@@ -46,12 +46,17 @@ linkedin_username: kameshchandran
 
 # About Section
 # about_title: About Me
-about_profile_image: images/1-sticker.jpg
+about_profile_image: images/1-sticker.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application).
 
   Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer). The attached resume will give you the details of my background. I am confident that the experience you will find outlined therein will be valuable to your firm.
-
+  Core Competencies:
+  - Data Architect/Engineer 
+  - API Evangelist/Solution Architect
+  - Problem Solving 
+  - Teamwork 
+  - Engineering Service Lead
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -61,27 +66,52 @@ content:
         link: customerportal.equinix.com
         caption: December 2016 - Present
         quote: >
-          Equinix Customer portal provides interconnections between or same customers and data center facility services. Equinix data centers presence is all the metros close to business centers this enables the customer to interconnect seamlessly with less latency and secured.
+          Equinix's single global platform helped digital leaders stay out front for more than 20 years. Interconnect your digital infrastructure to scale with agility, leveraging leading enterprises and service providers in ecosystems that multiply value for all. At Equinix, we see every day as a fresh opportunity to help you fast track your digital advantage.
         description: | # this will include new lines to allow paragraphs
-          I was 
-          Modules worked:
-          - Smart Discovery - Discovering the user actions based on users attachment or description. Based attachment content or descriptions the ML model will recommend orders type and pre populate the necessary details. 
-          - Order Recommendation - This ML models recommend the user to place the connected orders based on users frequent action. ML model allows reduce number click and predicts the dependent orders. 
-          - Enterprise Search Engine - Search is permission drive search engine, this allow the user to multilingual search query to find relevant information's. Relevancy and racking is designed based on business domain fields to provide seamless user experience. Data cleansing and engineered to solve the latency and speedy response.
-          - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email
-          - Interconnection LOA management - LOA process helps is a approval process which allow to establish connection between two customer. 
+          Equinix Customer portal provides interconnections between digital enterprises. The customer portal can have data services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and API for direct automation.
+          Modules Lead and contributed:
+          - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. Solutions is based on Kafka Messages, Spark Streaming, Spring 4.x and Elastic search
+          - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. Solutions is based on Kafka Messaging, Azure queue, Spring 4.x and Third party API interfaces.
+          - Interconnection LOA management - The LOA process helps an approval process that allows establishing connection between two customers. 
+          - Machine learnings
+            - Smart Discovery - Discovering the user actions based on users' attachment or description. Based on attachment content or request descriptions, the ML model will recommend order types and pre-populate the necessary details. 
+            - Order Recommendation - This ML models recommend that the user place the connected orders based on frequent action. ML model allows to reduce the number of clicks and predicts the dependent orders. 
+    
       - layout: left
         title: FIS (Fidelity information's Solution)
-        link: fis.com
+        link: fisglobal.com
         sub_title: Technical Lead Engineer
-        caption: November 2017 - Present
+        caption: July 2014 - December 2015
         quote: >
           FIS stays ahead of how the world is evolving to power businesses, across merchants, banking and capital markets, to outpace today’s fast-changing competitive landscape and help our clients run, grow and achieve more for their business. 
         description: | # this will include new lines to allow paragraphs
-          Company need banking solutions online facilitate the customer to check the balance and make payments. I was lead engineer to provide generic solutions for merchant and customer to view the transaction. This will help the FIS Customer to get the out of the box solutions with white labeling option.
-          Modules:
+          Company need banking solutions online facilitate the customer to check the balance and make payments. I was lead engineer to provide generic solutions for merchant and customer to view and manage life cycle of any transaction. Portal will help the FIS Customer to get the out of the box solutions with white labeling option. I was associated with project for <mark>1.6 years</mark> i was assigned with designing and solution the customer challenges on boarding
+          Modules Lead and contributed:
           - Aadhaar based KYC approval for customer - Creating back account based on aadhaar mobile number and finger print solutions to create a back account. 
-          - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS<mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8<mark> and Nginx
+          - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8</mark> and Nginx
+          - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8</mark> and Nginx
+      - layout: left
+        title: HTSL (Honeywell Technology Solutions Lab)
+        link: https://aerospace.honeywell.com/
+        sub_title: Technical Lead Engineer
+        caption: July 2006 - April 2014
+        quote: >
+         Honeywell Technology Solutions Lab Private Limited is a computer software company
+        description: | # this will include new lines to allow paragraphs
+          Portal has the ability to airplane product orders and manages the warranty for Honeywell aerospace related offerings. Portal facilitates engineers to download engine technical documentation based. Customers will have the option to make payment for the rented airplane engines or services offerings. During <mark>7.6 years</mark> of journey, Company has multiple opportunities to mature my industrial experience. I played a variety of roles from time to time for 16 months as an on-site coordinator, five years as a technical lead with a team size of 10 members, two years as an engineer, and six months as an intern trainee. During journey i was active member in evaluating technology and innovative solutions. 
+        
+          Modules Lead and contributed:
+          - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. Solutions based on Websphere Portal 7, <mark>Sprint Portlets</mark> and Generic portlets. 
+          - SHARED Portal Migration - Enable Honeywell’s airline customers to access value-added aftermarket service for their MRO requirements through migration of SHARED system functionality to the MyAerospace portal. Solutions is based on Spring 3.x, MyBatis, Ajax and Websphere portal server.
+          - Plymouth Migration - Reselling portal enabling customers & employees to search & browse through the catalog, add to cart and process with placing an order. Solution is based on SAP ECC eSelling, XCM, NWDS.
+          - ATR Catalog - Enable internal Honeywell’s sales rep to access ATR catalog form any mobile device. This allows configuring and downloading the catalog online and persists them on the devices. Especially when they are in the Aero show conference 
+          - Other Projects
+            - HSCE - Honeywell Health and Safety system Portal
+            - Teardown Management system - Barcode generation, for comparing LCD productions for Honeywell Patterns
+            - HonBoard - Online whiteboard solutions like "Miro"
+            - Catalogic - IPad Applications for Aerospace Catalog for sales and marketing.
+            - Integrated Supply chain - <mark>SAP Enterprise Portal</mark> Solution based for Supply chain management. 
+            - Single Singe On Integration - using saml defining authorizations and authentications between multiple systems
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,6 +120,7 @@ content:
         title: The University of Texas, Executions Educations
         caption: 2019 - 2020
         sub_title: PGP (Artificial intelligence and Machine learning)
+        link: https://eportfolio.greatlearning.in/kamesh
         quote: >
           The University of Texas at Austin, shortened to UT Austin, UT, or Texas, is a public research university in Austin, Texas and the flagship institution of the University of Texas System.
         description: | # this will include new lines to allow paragraphs
