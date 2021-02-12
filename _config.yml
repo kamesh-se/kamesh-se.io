@@ -48,11 +48,7 @@ linkedin_username: kameshchandran
 # about_title: About Me
 about_profile_image: images/1-sticker.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application).
-
-  Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer). The attached resume will give you the details of my background. I am confident that the experience you will find outlined therein will be valuable to your firm. 
-  
-
+  Hi, I'm Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application). Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer).
   **Core Competencies**:
   - Data Architect/Engineer 
   - API Evangelist/Solution Architect
@@ -96,7 +92,7 @@ content:
           - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
       - layout: left
         title: HTSL (Honeywell Technology Solutions Lab)
-        link: https://aerospace.honeywell.com/
+        link: aerospace.honeywell.com
         sub_title: Technical Lead Engineer
         caption: July 2006 - April 2014
         quote: >
@@ -124,8 +120,9 @@ content:
       - layout: left
         title: The University of Texas, Executions Educations
         caption: 2019 - 2020
-        sub_title: PGP (Artificial intelligence and Machine learning)
-        link: https://eportfolio.greatlearning.in/kamesh
+        sub_title: Post Graduate certificate Program - Artificial intelligence and Machine learning
+        link: |
+          [Projects](https://eportfolio.greatlearning.in/kamesh)
         quote: >
           The University of Texas at Austin, shortened to UT Austin, UT, or Texas, is a public research university in Austin, Texas and the flagship institution of the University of Texas System.
         description: | # this will include new lines to allow paragraphs
@@ -147,7 +144,7 @@ content:
       Alongside my interests in AI and software engineering some of my other interests and hobbies are: >
       - Running
       - Gaming
-      - Blogs 
+      - [medium blog](https://kamesh-c.medium.com/) 
 
 # Footer
 footer_show_references: true
