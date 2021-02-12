@@ -61,7 +61,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Equinix Customer Portal
         link: customerportal.equinix.com
         caption: December 2016 - Present
@@ -76,7 +76,6 @@ content:
           - Machine learnings
             - Smart Discovery - Discovering the user actions based on users' attachment or description. Based on attachment content or request descriptions, the ML model will recommend order types and pre-populate the necessary details. 
             - Order Recommendation - This ML models recommend that the user place the connected orders based on frequent action. ML model allows to reduce the number of clicks and predicts the dependent orders. 
-    
       - layout: left
         title: FIS (Fidelity information's Solution)
         link: fisglobal.com
