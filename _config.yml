@@ -51,8 +51,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application).
 
   Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer). The attached resume will give you the details of my background. I am confident that the experience you will find outlined therein will be valuable to your firm. 
-  
-#I am most skilled in: <mark>Data</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Experience # Title for the section
@@ -61,12 +59,7 @@ content:
       - layout: top-middle
         title: Equinix Customer Portal
         link: customerportal.equinix.com
-        # link_text: Project Website
         caption: December 2016 - Present
-        #additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
             Equinix Customer portal provides interconnections between or same customers and data center facilty services. Equinix data centers presence is all the metros close to business centers this enables the customer to interconnect seemlessly with less latency and secured.
         description: | # this will include new lines to allow paragraphs
@@ -75,7 +68,6 @@ content:
       - layout: left
         title: FIS (Fidility Informations Solution)
         link: fis.com
-        # link_text: boringcompany.com
         sub_title: Technial Lead Engineer
         caption: November 2017 - Present
         quote: >
@@ -94,8 +86,6 @@ content:
           The University of Texas at Austin, shortened to UT Austin, UT, or Texas, is a public research university in Austin, Texas and the flagship institution of the University of Texas System. 
         description: | # this will include new lines to allow paragraphs
           I learn to create and manage machine learning models during the modern way of online education—the basics skill like cleansing the data for model prediction, PCA, and Feature engineering. I learned to organize the data and understand the business use case to predict the models.  
-
-          
       - layout: left
         title: JJ College of engineering (Affiliated to Anna University)
         caption: 2003 - 2006
@@ -103,14 +93,14 @@ content:
         quote: >
            	J.J. Educational, Health & Charitable Trust has been established in the year 1994 with a vision to create, educational facilities in general and technical institutions in particular, to the socially educationally and economically under privileged youth from rural areas in and around Tiruchirappalli.
         description: | # this will include new lines to allow paragraphs
-          During my time at College I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at College I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.>
 
           I spent a lot of my free time as a committee member of the *College Developer Community* taking on roles such as arranging hacking sessions for joniors *Hackathon Organizer* and *Caltural Event Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
+      Alongside my interests in AI and software engineering some of my other interests and hobbies are: >
       - Running
       - Gaming
 
@@ -126,4 +116,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+ - jekyll-seo-ta
