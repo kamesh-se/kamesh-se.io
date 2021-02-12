@@ -63,7 +63,7 @@ content:
       - layout: left
         title: Equinix Customer Portal
         link: customerportal.equinix.com
-        caption: December 2016 - Present
+        caption: December 2015 - Present
         icon: fab fa-github
         quote: >
           Equinix's single global platform helped digital leaders stay out front for more than 20 years. Interconnect your digital infrastructure to scale with agility, leveraging leading enterprises and service providers in ecosystems that multiply value for all. At Equinix, we see every day as a fresh opportunity to help you fast track your digital advantage.
@@ -72,8 +72,8 @@ content:
 
 
           **Modules Lead and contributed**:
-          - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. Solutions is based on <mark>Kafka Messages, Spark Streaming, Spring 4.x and Elastic search</mark>
-          - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. Solutions is based on <mark>Kafka Messaging, Azure queue, Spring 4.x</mark> and Third party API interfaces.
+          - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. The frameworks used in this project are <mark>Kafka Messages, Spark Streaming, Spring 4.x and Elastic search</mark>
+          - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. The frameworks used in this project are <mark>Kafka Messaging, Azure queue, Spring 4.x</mark> and Third party API interfaces.
           - Interconnection LOA management - The LOA process helps an approval process that allows establishing connection between two customers. 
           - Machine learnings projects
             - Smart Discovery - Discovering the user actions based on users' attachment or description. Based on attachment content or request descriptions, the ML model will recommend order types and pre-populate the necessary details. 
@@ -90,8 +90,8 @@ content:
           
           **Modules Lead and contributed**:
           - Aadhaar based KYC approval for customer - Creating back account based on aadhaar mobile number and finger print solutions to create a back account. 
-          - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
-          - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
+          - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. The frameworks used in this project are <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
+          - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. The frameworks used in this project are <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
       - layout: left
         title: HTSL (Honeywell Technology Solutions Lab)
         link: aerospace.honeywell.com
@@ -104,9 +104,9 @@ content:
          
           
           **Modules Lead and contributed**:
-          - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. Solutions based on <mark>Websphere Portal 7, Sprint Portlets and Generic portlets</mark>. 
+          - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. The frameworks used in this project are <mark>Websphere Portal 7, Sprint Portlets and Generic portlets</mark>. 
           - SHARED Portal Migration - Enable Honeywell’s airline customers to access value-added aftermarket service for their MRO requirements through migration of SHARED system functionality to the MyAerospace portal. Solutions is based on Spring 3.x, MyBatis, Ajax and Websphere portal server.
-          - Plymouth Migration - Reselling portal enabling customers & employees to search & browse through the catalog, add to cart and process with placing an order. Solution is based on SAP ECC eSelling, XCM, NWDS.
+          - Plymouth Migration - Reselling portal enabling customers & employees to search & browse through the catalog, add to cart and process with placing an order. The frameworks used in this project are SAP ECC eSelling, XCM, NWDS.
           - ATR Catalog - Enable internal Honeywell’s sales rep to access ATR catalog form any mobile device. This allows configuring and downloading the catalog online and persists them on the devices. Especially when they are in the Aero show conference 
           - Other Projects
             - HSCE - Honeywell Health and Safety system Portal
