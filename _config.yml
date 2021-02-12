@@ -98,7 +98,9 @@ content:
          Honeywell Technology Solutions Lab Private Limited is a computer software company
         description: | # this will include new lines to allow paragraphs
           Portal has the ability to airplane product orders and manages the warranty for Honeywell aerospace related offerings. Portal facilitates engineers to download engine technical documentation based. Customers will have the option to make payment for the rented airplane engines or services offerings. During <mark>7.6 years</mark> of journey, Company has multiple opportunities to mature my industrial experience. I played a variety of roles from time to time for 16 months as an on-site coordinator, five years as a technical lead with a team size of 10 members, two years as an engineer, and six months as an intern trainee. During journey i was active member in evaluating technology and innovative solutions. 
-          #### Modules Lead and contributed:
+         
+          
+          Modules Lead and contributed:
           - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. Solutions based on Websphere Portal 7, <mark>Sprint Portlets</mark> and Generic portlets. 
           - SHARED Portal Migration - Enable Honeywell’s airline customers to access value-added aftermarket service for their MRO requirements through migration of SHARED system functionality to the MyAerospace portal. Solutions is based on Spring 3.x, MyBatis, Ajax and Websphere portal server.
           - Plymouth Migration - Reselling portal enabling customers & employees to search & browse through the catalog, add to cart and process with placing an order. Solution is based on SAP ECC eSelling, XCM, NWDS.
