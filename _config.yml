@@ -49,6 +49,8 @@ linkedin_username: kameshchandran
 about_profile_image: images/1-sticker.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application). Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer).
+  
+  
   **Core Competencies**:
   - Data Architect 
   - API Evangelist
@@ -131,7 +133,7 @@ content:
         title: JJ College of engineering (Affiliated to Anna University)
         caption: 2003 - 2006
         sub_title: BSc Computer Science
-        quote: JJ Colleger of Engineering 
+        quote: JJ Colleger of Engineering affiliated to Anna University
         description: | # this will include new lines to allow paragraphs
           During my time at College I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -150,7 +152,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
