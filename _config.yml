@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer). The attached resume will give you the details of my background. I am confident that the experience you will find outlined therein will be valuable to your firm. 
   
 
-  *Core Competencies*:
+  **Core Competencies**:
   - Data Architect/Engineer 
   - API Evangelist/Solution Architect
   - Problem Solving 
@@ -73,7 +73,7 @@ content:
           Equinix Customer portal provides interconnections between digital enterprises. The customer portal can have data services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and API for direct automation.
           
           
-          * Modules Lead and contributed * :
+          **Modules Lead and contributed**:
           - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. Solutions is based on Kafka Messages, Spark Streaming, Spring 4.x and Elastic search
           - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. Solutions is based on Kafka Messaging, Azure queue, Spring 4.x and Third party API interfaces.
           - Interconnection LOA management - The LOA process helps an approval process that allows establishing connection between two customers. 
@@ -91,7 +91,7 @@ content:
           Company need banking solutions online facilitate the customer to check the balance and make payments. I was lead engineer to provide generic solutions for merchant and customer to view and manage life cycle of any transaction. Portal will help the FIS Customer to get the out of the box solutions with white labeling option. I was associated with project for <mark>1.6 years</mark> i was assigned with designing and solution the customer challenges on boarding
           
           
-          * Modules Lead and contributed * :
+          **Modules Lead and contributed**:
           - Aadhaar based KYC approval for customer - Creating back account based on aadhaar mobile number and finger print solutions to create a back account. 
           - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8</mark> and Nginx
           - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8</mark> and Nginx
@@ -106,7 +106,7 @@ content:
           Portal has the ability to airplane product orders and manages the warranty for Honeywell aerospace related offerings. Portal facilitates engineers to download engine technical documentation based. Customers will have the option to make payment for the rented airplane engines or services offerings. During <mark>7.6 years</mark> of journey, Company has multiple opportunities to mature my industrial experience. I played a variety of roles from time to time for 16 months as an on-site coordinator, five years as a technical lead with a team size of 10 members, two years as an engineer, and six months as an intern trainee. During journey i was active member in evaluating technology and innovative solutions. 
          
           
-          * Modules Lead and contributed * :
+          **Modules Lead and contributed**:
           - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. Solutions based on Websphere Portal 7, <mark>Sprint Portlets</mark> and Generic portlets. 
           - SHARED Portal Migration - Enable Honeywell’s airline customers to access value-added aftermarket service for their MRO requirements through migration of SHARED system functionality to the MyAerospace portal. Solutions is based on Spring 3.x, MyBatis, Ajax and Websphere portal server.
           - Plymouth Migration - Reselling portal enabling customers & employees to search & browse through the catalog, add to cart and process with placing an order. Solution is based on SAP ECC eSelling, XCM, NWDS.
