@@ -92,8 +92,8 @@ content:
           
           **Modules Lead and contributed**:
           - Aadhaar based KYC approval for customer - Creating back account based on aadhaar mobile number and finger print solutions to create a back account. 
-          - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8</mark> and Nginx
-          - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology Spring 4.x, <mark>Java 8</mark> and Nginx
+          - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
+          - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. Solution is based on <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
       - layout: left
         title: HTSL (Honeywell Technology Solutions Lab)
         link: https://aerospace.honeywell.com/
@@ -106,7 +106,7 @@ content:
          
           
           **Modules Lead and contributed**:
-          - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. Solutions based on Websphere Portal 7, <mark>Sprint Portlets</mark> and Generic portlets. 
+          - Aerospace Portal - A leading web portal for Honeywell Aerospace customer and Customer support representatives to place orders, collate information on the order, download the technical document, and search for field service engineer and support locator. Solutions based on <mark>Websphere Portal 7, Sprint Portlets and Generic portlets</mark>. 
           - SHARED Portal Migration - Enable Honeywell’s airline customers to access value-added aftermarket service for their MRO requirements through migration of SHARED system functionality to the MyAerospace portal. Solutions is based on Spring 3.x, MyBatis, Ajax and Websphere portal server.
           - Plymouth Migration - Reselling portal enabling customers & employees to search & browse through the catalog, add to cart and process with placing an order. Solution is based on SAP ECC eSelling, XCM, NWDS.
           - ATR Catalog - Enable internal Honeywell’s sales rep to access ATR catalog form any mobile device. This allows configuring and downloading the catalog online and persists them on the devices. Especially when they are in the Aero show conference 
