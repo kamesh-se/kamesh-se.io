@@ -70,7 +70,7 @@ content:
           Equinix's single global platform helped digital leaders stay out front for more than 20 years. Interconnect your digital infrastructure to scale with agility, leveraging leading enterprises and service providers in ecosystems that multiply value for all. At Equinix, we see every day as a fresh opportunity to help you fast track your digital advantage.
         description: | # this will include new lines to allow paragraphs
           Equinix Customer portal provides interconnections between digital enterprises. The customer portal can have data services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and API for direct automation.
-          \n\n
+          ...
           Modules Lead and contributed:
           - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. Solutions is based on Kafka Messages, Spark Streaming, Spring 4.x and Elastic search
           - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. Solutions is based on Kafka Messaging, Azure queue, Spring 4.x and Third party API interfaces.
