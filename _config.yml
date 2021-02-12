@@ -50,11 +50,10 @@ about_profile_image: images/1-sticker.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application). Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer).
   **Core Competencies**:
-  - Data Architect/Engineer 
-  - API Evangelist/Solution Architect
-  - Problem Solving 
-  - Teamwork 
-  - Engineering Service Lead
+  - Data Architect 
+  - API Evangelist
+  - Solution Architect (AWS Cloud)
+  - Problem Solving
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -63,15 +62,16 @@ content:
         title: Equinix Customer Portal
         link: customerportal.equinix.com
         caption: December 2016 - Present
+        icon: fab fa-github
         quote: >
           Equinix's single global platform helped digital leaders stay out front for more than 20 years. Interconnect your digital infrastructure to scale with agility, leveraging leading enterprises and service providers in ecosystems that multiply value for all. At Equinix, we see every day as a fresh opportunity to help you fast track your digital advantage.
         description: | # this will include new lines to allow paragraphs
-          Equinix Customer portal provides interconnections between digital enterprises. The customer portal can have data services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and API for direct automation. Organizations give me the most challenging data center industrial problem to solve with my current <mark>5+ years</mark> association.
+          Equinix Customer portal provides interconnections between digital enterprises. The customer portal can have data services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and RESTful API for direct Integration. Organizations give me the most challenging data center industrial problem to solve with my current <mark>5+ years</mark> association.
 
 
           **Modules Lead and contributed**:
-          - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. Solutions is based on Kafka Messages, Spark Streaming, Spring 4.x and Elastic search
-          - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. Solutions is based on Kafka Messaging, Azure queue, Spring 4.x and Third party API interfaces.
+          - Enterprise Search Engine - Search is a permission drive search engine; this allows the user to multilingual search queries to find relevant information. Relevancy and racking are designed based on business domain fields to provide a seamless user experience. Solutions is based on <mark>Kafka Messages, Spark Streaming, Spring 4.x and Elastic search</mark>
+          - Unified Notifications service - Unified notification message services with services like firebase, MS teams, Azure queue, SMS, and email. Solutions is based on <mark>Kafka Messaging, Azure queue, Spring 4.x</mark> and Third party API interfaces.
           - Interconnection LOA management - The LOA process helps an approval process that allows establishing connection between two customers. 
           - Machine learnings projects
             - Smart Discovery - Discovering the user actions based on users' attachment or description. Based on attachment content or request descriptions, the ML model will recommend order types and pre-populate the necessary details. 
@@ -122,7 +122,7 @@ content:
         caption: 2019 - 2020
         sub_title: Post Graduate certificate Program - Artificial intelligence and Machine learning
         link: |
-          [Projects](https://eportfolio.greatlearning.in/kamesh)
+          eportfolio.greatlearning.in/kamesh
         quote: >
           The University of Texas at Austin, shortened to UT Austin, UT, or Texas, is a public research university in Austin, Texas and the flagship institution of the University of Texas System.
         description: | # this will include new lines to allow paragraphs
@@ -132,7 +132,6 @@ content:
         caption: 2003 - 2006
         sub_title: BSc Computer Science
         quote: JJ Colleger of Engineering 
-
         description: | # this will include new lines to allow paragraphs
           During my time at College I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -141,10 +140,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AI and software engineering some of my other interests and hobbies are: >
+      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
       - Running
-      - Gaming
-      - [medium blog](https://kamesh-c.medium.com/) 
+      - Cooking
+      - Writing blogs [link](https://kamesh-c.medium.com/) 
 
 # Footer
 footer_show_references: true
