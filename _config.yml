@@ -89,10 +89,11 @@ content:
           The organization needs banking solutions online to facilitate the buyer and seller to check the balance and make payments. I was the lead engineer to provide generic solutions for merchants and customers to view and manage any transaction life cycle. Portal will help the FIS Customer get them out of the box solutions with a white labeling option. The organization has given me multiple opportunities to mature my industrial banking experience in a short period of <mark>1.6 years</mark>.           
           
           **Modules Lead and contributed**:
-          - Aadhaar based KYC approval for customer - Creating back account based on aadhaar mobile number and finger print solutions to create a back account. The frameworks use in this project are Angular JS, Apache Cordova, finger print scanner, android. 
-          - OTP platform Service - One time password solutions used as 2 factor authentications for any payment authorizations or authorizing user for verifications. The frameworks use in this project 
           - Merchant Portal - Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. The frameworks used in this project are <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
           - Prepaid Customer Portal (Mobile wallet)- Facilitates mPOS device association with seller. This portal provides seller to manage successful transactions and refunds. The frameworks used in this project are <mark>Angular JS</mark> as single page applications backed by middleware technology <mark>Spring 4.x, Java 8 and Nginx</mark>
+          - OTP platform Service - One time password solutions used as 2 factor authentications for any payment authorizations or authorizing user for verifications. The frameworks use in this project are Apache Camel, Scala, SMS Gateway services.
+          - POC:
+            - Aadhaar based KYC approval for customer - Creating back account based on aadhaar mobile number and finger print solutions to create a back account. The frameworks use in this project are Angular JS, Apache Cordova, finger print scanner, android. 
       - layout: left
         title: HTSL (Honeywell Technology Solutions Lab)
         link: aerospace.honeywell.com
