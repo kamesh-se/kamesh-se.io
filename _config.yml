@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Equinix Colocation
+        title: Equinix
         link: customerportal.equinix.com
         caption: December 2015 - Present
         icon: fab fa-github
