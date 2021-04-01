@@ -40,9 +40,9 @@ linkedin_username: kameshchandran
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+gtm: "G-V1Y5X4WH7L"
+gtag: "G-V1Y5X4WH7L"
+google_analytics: "G-V1Y5X4WH7L"
 
 # About Section
 # about_title: About Me
