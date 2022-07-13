@@ -48,7 +48,7 @@ google_analytics: "G-V1Y5X4WH7L"
 # about_title: About Me
 about_profile_image: images/1-sticker.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Kamesh and I have 14+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application). Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer).
+  Hi, I'm Kamesh and I have 15+ years of versatile experience in Lead Engineering, Data Center, Order Management, reseller, Banking  (Merchant and Customer banking portal), Design & Development of the portal, REST-Based servicing application (Middleware/Micro Service application). Presently associated with Equinix, Singapore as Senior Staff Engineer (Lead engineer).
   
   
   **Core Competencies**:
@@ -60,10 +60,26 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left 
+        title: Grab
+        link: grab.com
+        caption: September 2021 - Present
+        icon: fab fa-github
+        quote: >
+          Grab Holdings Limited provides superapps that allows access to mobility, delivery, financial services, and enterprise offerings through its mobile application in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company is headquartered in Singapore
+        description: |
+          Grab - the leading super app in Southeast Asia - combines transport, food delivery, logistics, financial services, and much more in a single platform. The TIS (Trust, Identity & Safety) department acts as guardians of all users on Grab. It closely monitors every event such as account login, booking and transactions on the platform for over 8 major business lines across Grab, making data driven decisions in milliseconds.
+          **Modules Lead and contributed**:
+          - Work on problems that run the gamut from data science to deploying and monitoring models in production.
+          - Build and deploy scalable machine learning models to enable our fraud, risk and safety systems.
+          - Analyze data and define metrics for feature evaluation and model performance.
+          - Design and implement robust data pipelines.
+          - Identify and build new approaches and methods for machine learning as we grow.
+
       - layout: left
         title: Equinix
         link: customerportal.equinix.com
-        caption: December 2015 - Present
+        caption: December 2015 - September 2021
         icon: fab fa-github
         quote: >
           Equinix's single global platform helped digital leaders stay out front for more than 20 years. Interconnect your digital infrastructure to scale with agility, leveraging leading enterprises and service providers in ecosystems that multiply value for all. At Equinix, we see every day as a fresh opportunity to help you fast track your digital advantage.
