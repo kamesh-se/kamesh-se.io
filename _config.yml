@@ -63,6 +63,7 @@ content:
       - layout: left 
         title: Grab
         link: grab.com
+        sub_title: Lead Data Engineer
         caption: September 2021 - Present
         icon: fab fa-github
         quote: >
@@ -75,10 +76,11 @@ content:
           - Analyze data and define metrics for feature evaluation and model performance.
           - Design and implement robust data pipelines.
           - Identify and build new approaches and methods for machine learning as we grow.
-
+          - Framework and technical:  Java 11, Scala, Flink, Elasticsearch, Kafka Streaming, Terragrunt, AWS EC2, S3 and DynamoDB.
       - layout: left
         title: Equinix
         link: customerportal.equinix.com
+        sub_title: Senior Staff Engineer (Lead Engineer)
         caption: December 2015 - September 2021
         icon: fab fa-github
         quote: >
