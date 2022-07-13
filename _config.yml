@@ -69,7 +69,9 @@ content:
         quote: >
           Grab Holdings Limited provides superapps that allows access to mobility, delivery, financial services, and enterprise offerings through its mobile application in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company is headquartered in Singapore
         description: |
-          Grab - the leading super app in Southeast Asia - combines transport, food delivery, logistics, financial services, and much more in a single platform. The TIS (Trust, Identity & Safety) department acts as guardians of all users on Grab. It closely monitors every event such as account login, booking and transactions on the platform for over 8 major business lines across Grab, making data driven decisions in milliseconds.
+          Grab - the leading super app in Southeast Asia - combines transport, food delivery, logistics, financial services, and much more in a single platform. The TIS (Trust, Identity & Safety) department acts as guardians of all users on Grab. It closely monitors every event such as account login, booking and transactions on the platform for over 8 major business lines across Grab, making data driven decisions in milliseconds. The current organization has given me the most challenging <mark>anti-fraud detection</mark> problem to solve with <mark>11+ months</mark> association.
+
+
           **Modules Lead and contributed**:
           - Work on problems that run the gamut from data science to deploying and monitoring models in production.
           - Build and deploy scalable machine learning models to enable our fraud, risk and safety systems.
@@ -86,7 +88,7 @@ content:
         quote: >
           Equinix's single global platform helped digital leaders stay out front for more than 20 years. Interconnect your digital infrastructure to scale with agility, leveraging leading enterprises and service providers in ecosystems that multiply value for all. At Equinix, we see every day as a fresh opportunity to help you fast track your digital advantage.
         description: | # this will include new lines to allow paragraphs
-          Equinix's Colocations platform provides interconnections between digital enterprises. The customer can avail the colocations services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and Partner API for direct Integration. The current organization has given me the most challenging data center industrial problem to solve with my current <mark>5+ years</mark> association.
+          Equinix's Colocations platform provides interconnections between digital enterprises. The customer can avail the colocations services offered and provides all the aftermarket facilities like billing in a single unified platform. Customers can utilize multiple channels, web, mobile, and Partner API for direct Integration. The organization has given me the most challenging data center industrial problem to solve with <mark>6+ years</mark> association.
 
 
           **Modules Lead and contributed**:
