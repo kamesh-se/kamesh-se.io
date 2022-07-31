@@ -67,10 +67,9 @@ content:
         caption: September 2021 - Present
         icon: fab fa-github
         quote: >
-          Grab Holdings Limited provides super app that allows access to mobility, delivery, financial services, and enterprise offerings through its mobile application in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company is headquartered in Singapore
+          Grab - the leading super app in Southeast Asia - combines transport, food delivery, logistics, financial services, and much more in a single platform and its mobile application in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company is headquartered in Singapore
         description: |
-          Grab - the leading super app in Southeast Asia - combines transport, food delivery, logistics, financial services, and much more in a single platform. The TIS (Trust, Identity & Safety) department acts as guardians of all users on Grab. It closely monitors every event such as account login, booking and transactions on the platform for over 8 major business lines across Grab, making data driven decisions in milliseconds. The current organization has given me the most challenging <mark>fraud detection</mark> problem to solve with 11+ months association.
-
+          The TIS (Trust, Identity & Safety) department acts as guardians of all users on Grab. It closely monitors every event such as account login, booking and transactions on the platform for over 8 major business lines across Grab, making data driven decisions in milliseconds. The association with current organization helps to address the cutting edge industrial <mark>fraud detection</mark> problem to solve within an year of association.
 
           **Modules Lead and contributed**:
           - Work on problems that run the gamut from data science to deploying and monitoring models in production.
@@ -79,6 +78,7 @@ content:
           - Design and implement robust data pipelines.
           - Identify and build new approaches and methods for machine learning as we grow.
           - Framework and technical:  Java 11, Scala, Flink, Elasticsearch, Kafka Streaming, Terragrunt, AWS EC2, S3 and DynamoDB.
+
       - layout: left
         title: Equinix
         link: customerportal.equinix.com
